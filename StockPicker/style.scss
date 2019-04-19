@@ -1,0 +1,7 @@
+//Most of the styling was sort of done for me in my html by default.
+//Sorry there aren't a ton of changes here... I know how to use sass I swear
+$changePTag: rgb(0, 209, 173);
+p{
+    color: $changePTag;
+    font-weight: bold;
+}
